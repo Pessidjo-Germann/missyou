@@ -1,0 +1,94 @@
+body{
+    background-color: blueviolet;
+}
+div{
+    border-radius: 30px;
+    background-color: aliceblue;
+    position: relative;
+    height: 800px;
+    margin-right: 400px;
+    margin-left: 400px;
+    text-align: center;
+    bottom: -200px;
+
+}
+.nom{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+}
+.prenom{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+    
+}
+.email{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+
+}
+.numero{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+    
+}
+.sex{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+    
+}
+.pseudo{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+    
+}
+.age{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+    
+}.password{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+}
+.cpassword{
+    height: 30px;
+    width: 400px;
+    padding: 5px;
+    margin-bottom:10px ;
+    border-radius: 20px;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+ 
+}
+button{
+    background-color: blue;
+    border-radius: 50;
+    width: 100px;
+    height: 30px;
+}

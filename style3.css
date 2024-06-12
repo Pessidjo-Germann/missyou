@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(14, 2, 2, 0.178);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.navbar{
+   
+    padding: 50px;
+display: flex;
+justify-content: space-between;
+width: 100%;
+box-sizing: border-box;
+align-items: center;
+background-color: slategrey;
+}
+.navbar a{
+    color: white;
+}.navbar .missyou{
+    color: white;
+    font-size: larger;
+    font-weight:bold ;
+}
+.navbar .ba ul{
+    display: flex;
+    list-style: none;
+    
+}
+
+.navbar .ba ul li{
+    padding:10px 30px ;
+    
+ 
+}
+.navbar .ba ul li a {
+    color: violet;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.3s;
+    
+}
+
+.navbar .ba ul li a:hover {
+    color:palegoldenrod;
+
+}
+
+
+
+
